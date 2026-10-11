@@ -1,36 +1,25 @@
-# Vinícius Mota
+
+# Vinícius
 
 ### Estudante de Engenharia de Software
 
-> Construindo minha trajetória em tecnologia, um projeto de cada vez.
+> Desenvolvimento • Tecnologia • Aprendizado contínuo
 
----
+- 🎓 Estudante de Engenharia de Software
+- 💻 Praticando HTML, CSS e Java
+- 🚀 Construindo projetos para meu portfólio
+- 📚 Evoluindo em programação e desenvolvimento
 
-## Sobre mim
-
-Sou estudante de **Engenharia de Software** e estou desenvolvendo minha base em programação, lógica e desenvolvimento de software.
-
-Atualmente pratico **HTML, CSS e Java**, buscando evoluir através de estudos e projetos práticos.
-
-Meu objetivo é construir um portfólio consistente e conquistar minha primeira oportunidade profissional na área de tecnologia.
-
----
-
-## Stack atual
+## Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" />
 
-`HTML` `CSS` `Java`
+## Links
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-mota-software/)
 
-## Status atual
+## GitHub Stats
 
-```text
-🎓 Engenharia de Software
-💻 HTML • CSS • Java
-🧠 Lógica de programação
-📂 Construindo projetos para portfólio
-🚀 Em constante evolução
+<img src="https://github-readme-stats.vercel.app/api?username=vnn-coder&show_icons=true&theme=github_dark&hide_border=true" />
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnn-coder&layout=compact&theme=github_dark&hide_border=true" />
