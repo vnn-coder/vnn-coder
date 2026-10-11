@@ -1,11 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:08172f,100:0077ff&height=180&section=header&text=Vinícius%20Mota&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
+# Vinícius Mota
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&width=700&lines=Estudante+de+Engenharia+de+Software;HTML+%E2%80%A2+CSS+%E2%80%A2+Java;Construindo+projetos+e+evoluindo+todos+os+dias" />
+### Estudante de Engenharia de Software
 
-### Sobre mim
+<img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" />
 
-```text
-> Nome       Vinícius Mota
-> Formação   Engenharia de Software
-> Foco       Desenvolvimento de Software
-> Status     Em constante aprendizado
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+## Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/vinicius-mota-software/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="https://github.com/vnn-coder">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
+</a>
