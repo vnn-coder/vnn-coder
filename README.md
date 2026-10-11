@@ -1,47 +1,11 @@
-# Vinícius Mota
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:08172f,100:0077ff&height=180&section=header&text=Vinícius%20Mota&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
 
-### Estudante de Engenharia de Software
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&width=700&lines=Estudante+de+Engenharia+de+Software;HTML+%E2%80%A2+CSS+%E2%80%A2+Java;Construindo+projetos+e+evoluindo+todos+os+dias" />
 
-> Desenvolvimento • Tecnologia • Aprendizado contínuo
+### Sobre mim
 
-Sou estudante de **Engenharia de Software**, atualmente praticando **HTML, CSS e Java** e construindo projetos para desenvolver minhas habilidades e fortalecer meu portfólio.
-
-- 🎓 Engenharia de Software
-- 💻 HTML • CSS • Java
-- 🧠 Lógica de programação
-- 🚀 Projetos para portfólio
-- 📚 Aprendizado contínuo
-
----
-
-## Tecnologias
-
-<img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" />
-
----
-
-## Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/vinicius-mota-software/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vnn-coder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnn-coder&layout=compact&theme=github_dark&hide_border=true" />
-
----
-
-## Projetos
-
-Atualmente estou organizando e desenvolvendo projetos para aplicar o que venho aprendendo.
-
-Em breve, meus principais projetos estarão destacados aqui.
-
----
-
-<sub>Aprendendo • Construindo • Evoluindo</sub>
+```text
+> Nome       Vinícius Mota
+> Formação   Engenharia de Software
+> Foco       Desenvolvimento de Software
+> Status     Em constante aprendizado
