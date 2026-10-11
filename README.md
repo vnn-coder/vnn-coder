@@ -1,5 +1,3 @@
-<div align="center">
-
 # Vinícius Mota
 
 ### Estudante de Engenharia de Software
@@ -8,17 +6,7 @@
 
 Construindo minha jornada em desenvolvimento de software.
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=html,css,java&theme=dark" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/vinicius-mota-software/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
