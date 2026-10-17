@@ -1,7 +1,11 @@
+
+  
 <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF5733&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Vin%C3%ADcius;Estudante+de+Engenharia+de+Software"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=C000FF&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Vin%C3%ADcius;Estudante+de+Engenharia+de+Software"
   alt="Apresentação animada"
 />
+
+
 
 <br>
 
@@ -38,6 +42,12 @@
 </a>
 
 <br><br>
+
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=vnn-coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"
+  alt="Estatísticas do GitHub"
+/>
 
 
 <picture>
