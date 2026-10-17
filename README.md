@@ -9,7 +9,8 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Futuro%20desenvolvedor-FullStack-30363D?style=flat-square&labelColor=30363D&color=30363D" />
+
+<img src="https://img.shields.io/badge/Futuro%20desenvolvedor-FullStack-7C3AED?style=flat&labelColor=30363D&color=7C3AED" alt="Futuro desenvolvedor FullStack" />
 
 <br>
 
@@ -29,9 +30,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
 <a href="https://github.com/vnn-coder">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=BF00FF" alt="GitHub">
 </a>
+
 
 <a href="https://www.instagram.com/vinicius.sv77/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -42,12 +45,6 @@
 </a>
 
 <br><br>
-
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=vnn-coder&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"
-  alt="Estatísticas do GitHub"
-/>
 
 
 <picture>
